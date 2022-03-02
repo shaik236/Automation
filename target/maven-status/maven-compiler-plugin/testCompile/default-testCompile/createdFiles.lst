@@ -1,0 +1,6 @@
+com\PetUiClinic\Pages\HomePage.class
+com\PetUiClinic\Tests\PetUiClinicUI_Test.class
+com\Booking\Tests\Booking_Test.class
+com\PetUiClinic\Pages\OwnersPage.class
+com\Booking\Common\CommonActions.class
+com\PetUiClinic\Pages\CommonActions.class
